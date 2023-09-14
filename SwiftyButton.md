@@ -2,7 +2,6 @@
 
 
 ````
-
 struct ContentView: View {
   
   @State var swiftyColor: Color = .red
@@ -31,5 +30,3 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 ````
-
-/Assets/SwifyButtonPicture.png

@@ -30,3 +30,6 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 ````
+
+
+![alt text](https://github.com/Poulsen89/SwiftCode.md/blob/090aaaaba3ed61273a045a17af258e69b8a43576/Ska%CC%88rmavbild%202023-09-14%20kl.%2013.24.20.png)

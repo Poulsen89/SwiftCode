@@ -1,2 +1,2 @@
 # SwiftCode
-Basics of Swift
+Different topics with basic information for learning and exploring!

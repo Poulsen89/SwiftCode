@@ -1,7 +1,7 @@
 # Simple SwiftButton
 
 
-````
+```` ruby
 struct ContentView: View {
   
   @State var swiftyColor: Color = .red

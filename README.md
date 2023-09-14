@@ -2,4 +2,4 @@
 Different topics with basic information for learning and exploring!
 
 
-[Image Design](docs/SwiftyButton.md)
+[Image Design](SwiftyButton.md)

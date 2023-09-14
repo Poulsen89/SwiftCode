@@ -2,7 +2,7 @@
 
 ### Chapter 1
 
-[Tuples](SwiftyButton.md)
+[Tuples](SwiftyButton.md) ✅
 
 [Booleans](SwiftyButton.md)
 

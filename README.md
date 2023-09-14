@@ -2,8 +2,6 @@
 
 ### Chapter 1
 
-
-
 [Tuples](SwiftyButton.md)
 
 [Booleans](SwiftyButton.md)

@@ -3,11 +3,11 @@
 ### Chapter 1  
 
 
-✅ - [Booleans](Booleans.md) - 15 September 2023
+✅ - [Booleans](Chapter1/Booleans.md) - 15 September 2023
 
-✅ - [Operators](Operators.md) - 15 September 2023
+✅ - [Operators](Chapter1/Operators.md) - 15 September 2023
 
-✅ - [Optionals](Optionals.md) - 15 September 2023
+✅ - [Optionals](Chapter1/Optionals.md) - 15 September 2023
 
 🧑‍💻  - [Tuples](SwiftyButton.md)
 

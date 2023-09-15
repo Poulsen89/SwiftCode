@@ -1,12 +1,15 @@
 # SwiftCode
 
-### Chapter 1
+### Chapter 1  
 
- ✅  - [Tuples](SwiftyButton.md)
 
-🧑‍💻 - [Booleans](SwiftyButton.md) 
+✅ - [Booleans](SwiftyButton.md) - 15 September 2023
 
-🧑‍💻 - [Operators](SwiftyButton.md)
+✅ - [Operators](SwiftyButton.md) - 15 September 2023
+
+✅ - [Optionals](SwiftyButton.md) - 15 September 2023
+
+🧑‍💻  - [Tuples](SwiftyButton.md)
 
 🧑‍💻 - [For Loops](SwiftyButton.md)
 
@@ -17,8 +20,6 @@
 🧑‍💻 - [Enumerations](SwiftyButton.md)
 
 🧑‍💻 - [Functionals](SwiftyButton.md)
-
-🧑‍💻 - [Optionals](SwiftyButton.md)
 
 🧑‍💻 - [Collections](SwiftyButton.md)
 
